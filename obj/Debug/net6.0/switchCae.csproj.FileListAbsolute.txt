@@ -1,0 +1,15 @@
+/Users/fatihbasar/Desktop/switchCae/bin/Debug/net6.0/switchCae
+/Users/fatihbasar/Desktop/switchCae/bin/Debug/net6.0/switchCae.deps.json
+/Users/fatihbasar/Desktop/switchCae/bin/Debug/net6.0/switchCae.runtimeconfig.json
+/Users/fatihbasar/Desktop/switchCae/bin/Debug/net6.0/switchCae.dll
+/Users/fatihbasar/Desktop/switchCae/bin/Debug/net6.0/switchCae.pdb
+/Users/fatihbasar/Desktop/switchCae/obj/Debug/net6.0/switchCae.csproj.AssemblyReference.cache
+/Users/fatihbasar/Desktop/switchCae/obj/Debug/net6.0/switchCae.GeneratedMSBuildEditorConfig.editorconfig
+/Users/fatihbasar/Desktop/switchCae/obj/Debug/net6.0/switchCae.AssemblyInfoInputs.cache
+/Users/fatihbasar/Desktop/switchCae/obj/Debug/net6.0/switchCae.AssemblyInfo.cs
+/Users/fatihbasar/Desktop/switchCae/obj/Debug/net6.0/switchCae.csproj.CoreCompileInputs.cache
+/Users/fatihbasar/Desktop/switchCae/obj/Debug/net6.0/switchCae.dll
+/Users/fatihbasar/Desktop/switchCae/obj/Debug/net6.0/refint/switchCae.dll
+/Users/fatihbasar/Desktop/switchCae/obj/Debug/net6.0/switchCae.pdb
+/Users/fatihbasar/Desktop/switchCae/obj/Debug/net6.0/switchCae.genruntimeconfig.cache
+/Users/fatihbasar/Desktop/switchCae/obj/Debug/net6.0/ref/switchCae.dll
